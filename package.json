@@ -1,0 +1,17 @@
+{
+  "name": "tester",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha":"*",
+    "should": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.8.x",
+      "npm": "1.1.x"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
