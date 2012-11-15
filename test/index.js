@@ -2,6 +2,6 @@ var should = require('should');
 
 describe('tester', function(){
   it('should not fail',function(){
-    should.exist('descartes');
+    should.not.exist('descartes');
   });
 });
