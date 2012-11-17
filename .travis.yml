@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - "0.8"
 notifications:
-  webhooks: http://proxy.nearbybars.com:3000/status
+  webhooks: http://YOUR_APP_URL/status
